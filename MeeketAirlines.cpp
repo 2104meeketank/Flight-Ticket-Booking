@@ -1,6 +1,5 @@
 #include <iostream>
 #include <iomanip>
-//#include "MeeketAirlinesHeader.h"
 #define size 100
 using namespace std;
 //Adding structure and declaring it as public and private
